@@ -1,0 +1,13 @@
+.navbar{
+    background-image: url(img/fono_degradado.jpg);
+    background-position: bottom;
+    background-size: cover;
+}
+.navbar-brand{
+    color: white !important;
+    font-size: 25px !important;
+}
+.nav-link{
+    color: white !important;
+    font-size: 15px !important;
+}
